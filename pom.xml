@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>lexus</finalName>
+		<finalName>visa-app</finalName>
 		
 		<plugins>
 			<plugin>
