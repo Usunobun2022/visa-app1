@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>visa-app</finalName>
+		<finalName>visa-uat</finalName>
 		
 		<plugins>
 			<plugin>
