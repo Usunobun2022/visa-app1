@@ -9,10 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">WELCOME TO CHAMPIONS TEAM</h1>
-<h2 align="center">CLIENT IS HAPPY - ALL TESTS PASSED</h2>
-	<h2 align="center" >visa-app has now been successfully deployed to Production. Good job team Champions.
-</h2>
+<h1 align="center">USER ACCEPTANCE TESTING IN PROGRESS.</h1>
+<h2 align="center"> Waiting for Client Approval. </h2>
+	<h2 align="center" ></h2>
 <hr>
 <div style="text-align: center;">
 	<span>
